@@ -9,7 +9,7 @@ with high level thinking and attention to detail
 ### Sabre Holdings
 #### Contributor Software Developer 
 **March 2016 - Present**  
-![#057012](https://placehold.it/15/057012/000000?text=+) Designed and implemented new User Interfaces for Business-to-Consumer software applications.
+![#057012](https://placehold.it/15/057012/000000?text=Experience) Designed and implemented new User Interfaces for Business-to-Consumer software applications.
 
 
 #### Associate Software Developer
