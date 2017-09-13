@@ -5,26 +5,28 @@ Position as a software developer where I can use my skills in a
 software engineering to solve worthwhile technological problems 
 with high level thinking and attention to detail
 
+## Personal Projects
+* Published Google Play Store Developer ![https://play.google.com/store/apps/developer?id=Dr.+Watson+Productions](Dr. Watson Productions)
+* Android Mobile Operating Enthusiast 
+* ![Open Source Contibutor](https://github.com/JeffWatson)
+
 ## Experience
 ### Sabre Holdings
 #### Contributor Software Developer 
 **March 2016 - Present**  
-![#057012](https://placehold.it/15/057012/000000?text=Experience) Designed and implemented new User Interfaces for Business-to-Consumer software applications.
+* Designed and implemented new User Interfaces for Business-to-Consumer software applications.
+* Maintained existing software installations for a multi-tenant application
+* Assisted customers with application customization and configuration
 
 
 #### Associate Software Developer
 **August 2013 - March 2016**  
-![#057012](https://placehold.it/15/057012/000000?text=+) Developed features for multiple enterprise-class applications related to Flight Booking, Flight Check-in, and Software-as-a-Service application management.
+* Developed features for multiple enterprise-class applications related to Flight Booking, Flight Check-in, and Software-as-a-Service application management.
+* Rapidly learned new software frameworks and languages
 
 #### Intern
 **June 2013 - August 2013**  
-![#057012](https://placehold.it/15/057012/000000?text=+) Created a dashboard for the status of deployed software running in multiple environments.  
-
-
-
-####
-####
-
+* Created a dashboard for the status of deployed software running in multiple environments.  
 
 ## Education
 ### University of North Texas 
