@@ -8,17 +8,17 @@ with high level thinking and attention to detail
 ## Experience
 ### Sabre Holdings
 #### Contributor Software Developer 
-**March 2016 - Present**
-![#057012](https://placehold.it/15/f03c15/000000?text=+) Designed and implemented new User Interfaces for Business-to-Consumer software applications.
+**March 2016 - Present**  
+![#057012](https://placehold.it/15/057012/000000?text=+) Designed and implemented new User Interfaces for Business-to-Consumer software applications.
 
 
 #### Associate Software Developer
 **August 2013 - March 2016**  
-![#057012](https://placehold.it/15/f03c15/000000?text=+) Developed features for multiple enterprise-class applications related to Flight Booking, Flight Check-in, and Software-as-a-Service application management.
+![#057012](https://placehold.it/15/057012/000000?text=+) Developed features for multiple enterprise-class applications related to Flight Booking, Flight Check-in, and Software-as-a-Service application management.
 
 #### Intern
 **June 2013 - August 2013**  
-![#057012](https://placehold.it/15/f03c15/000000?text=+) Created a dashboard for the status of deployed software running in multiple environments.  
+![#057012](https://placehold.it/15/057012/000000?text=+) Created a dashboard for the status of deployed software running in multiple environments.  
 
 
 
